@@ -1,0 +1,52 @@
+.navbar-brand{
+    font-size: 16px;
+    font-weight: 500;
+    }   
+    .main{
+        margin: 0 auto;
+        width: 85%;
+    }
+    .Sell-btn{
+        border: 5px solid ;
+        border-image: linear-gradient(45deg, yellow, skyblue,blue ) 1;
+    }
+    .content{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .content h4{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .content p{
+        font-size: 20px;
+    }
+    .p-categories ul{
+        list-style: none;
+        color: black;
+    }
+    .p-categories a{
+        text-decoration: none;
+        color: black;
+        font-size: 12px;
+    }
+    .p-categories h6{
+    font-size: 14px;
+    font-weight: 700;
+    }
+    .followus a img{
+        width: 30px;
+        height: 30px;
+    }
+    .app a img {
+        width: 90px;
+        height: 90px;
+    }
+    .fs-bold{
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .search-width{
+        width: 400px;
+    }
